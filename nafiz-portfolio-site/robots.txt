@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nafizmahmud-beep.github.io/sitemap.xml
